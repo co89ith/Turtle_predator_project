@@ -15,4 +15,4 @@ The project contains the following files:
 - Custom message and service definitions (my_robot_interfaces)
 
 
-![me]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/co89ith/Turtle_predator_project/blob/main/Turtle_predator.gif))
+![Turtle_predator_example]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/co89ith/Turtle_predator_project/blob/main/Turtle_predator.gif))
